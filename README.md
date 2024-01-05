@@ -10,4 +10,4 @@ Enthusiast of the best development technologies and network infrastructure.
 
 There you'll find projects with:
 
-[![Typescript Badge](https://img.shields.io/badge/-Typescript-fff?style=flat-square&logo=Typescript&logoColor=black&link=#)]
+![Typescript Badge](https://img.shields.io/badge/-Typescript-fff?style=flat-square&logo=Typescript&logoColor=black&link=#) ![Javascript Badge](https://img.shields.io/badge/-Typescript-fff?style=flat-square&logo=Javascript&logoColor=black&link=#)
